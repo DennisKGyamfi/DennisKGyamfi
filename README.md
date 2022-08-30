@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DennisKwameGyamfi
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Javascript & React 
-- 💞️ I’m looking to collaborate on Frontend Development Projects for Beginners(html/css)
-- 📫 How to reach me: ngyamfi81@gmail.com
+- 👀 I’m passionate about Frontend Development and all things HTML, CSS, and Javascript
+- 🌱 I’m currently learning Javascript and React 
+- 💞️ I’m looking to collaborate on Frontend Development Projects for entry level roles
+- 📫 How to reach me on Twitter:@_nanagyamfi  and Email: ngyamfi81@gmail.com
 
 <!---
 DennisKGyamfi/DennisKGyamfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
