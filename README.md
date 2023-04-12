@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DennisKwameGyamfi
-- 👀 I’m passionate about Frontend Development and all things HTML, CSS, and Javascript
-- 🌱 I’m currently learning Javascript and React 
+- 👀 I’m passionate about Software Engineering
+- 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate on Frontend Development Projects for entry level roles
 - 📫 How to reach me on Twitter:@_nanagyamfi  and Email: ngyamfi81@gmail.com
 
