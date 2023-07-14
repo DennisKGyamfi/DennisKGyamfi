@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DennisKwameGyamfi
 - 👀 I’m passionate about Software Engineering
-- 🌱 I’m currently learning C 
-- 💞️ I’m open to collaborate on Frontend Development Projects for entry level roles
+- 🌱 I’m currently studying python
+- 💞️ I’m open to collaborate on Frontend Development Projects for entry-level roles
 - 📫 How to reach me on Twitter:@_nanagyamfi  and Email: ngyamfi81@gmail.com
 
 <!---
